@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Teena Goyal
 ### Building scalable and efficient web applications using the MERN Stack
-___
+
 #### Dynamic MERN Stack Web Developer with expertise in team collaboration, code optimization, debugging, and feature enhancement. Proficient in building user-friendly, scalable web applications with a focus on MongoDB, Express.js, React.js, and Node.js. Skilled in API integration, responsive design, and crafting efficient solutions. Seeking a challenging role to utilize and expand my technical abilities while contributing to innovative and impactful web projects in a fast-paced, collaborative environment.
 
 
