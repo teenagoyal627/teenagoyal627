@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Teena Goyal
-- 👀 I’m interested in Programing
-- 🌱 I’m currently learning C,C++
+- 👀 I’m interested in Programming
+- 🌱 Currently, I am working on projects.
 - 💞️ I’m looking to collaborate on Programing related questions
 
 <!---
